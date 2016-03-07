@@ -18,7 +18,7 @@ Check out <http://getskeleton.com> for documentation and details.
 
 ### What's in the download?
 
-The download includes Skeleton's CSS, Normalize CSS ( as a reset), a sample favicon, an index.html and a configuration file for Gulp as a starting point.
+The download includes Skeleton's CSS, Normalize CSS (as a reset), a sample favicon, an index.html and a configuration file for Gulp as a starting point.
 
 ```
 Skeleton/
