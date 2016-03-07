@@ -5,12 +5,12 @@ Check out <http://getskeleton.com> for documentation and details.
 
 ## Getting started
 
-### Install Global Dependancies
+### Install Global Dependencies
   * [Node.js](http://nodejs.org)
   * [bower](http://bower.io): `[sudo] npm install bower -g`
   * [gulp](http://gulpjs.com/): `[sudo] npm install gulp -g`
 
-### Install Local Dependancies
+### Install Local Dependencies
   * [Download zip](https://github.com/rezoh/Skeleton-Stylus/archive/master.zip) or clone the repo `git clone https://github.com/rezoh/Skeleton-Stylus.git`
   * cd to project folder
   * run `[sudo] npm install` (first time users)
