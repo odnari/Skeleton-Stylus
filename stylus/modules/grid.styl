@@ -1,4 +1,6 @@
+//------------------
 // Grid
+//------------------
 .container
   position relative
   width 100%
@@ -13,13 +15,13 @@
   float left
   box-sizing border-box
 
-// For devices larger than mobile
+// -- For devices larger than mobile
 @media (min-width: bp-lte-mobile)
   .container
     width container-width-lte-mobile
     padding 0
 
-// For devices larger than phablet
+// -- For devices larger than phablet
 @media (min-width: bp-lte-phablet)
   .container
     width container-width-lte-phablet
@@ -65,7 +67,7 @@
   .one-half.column
     width: grid-column-width(6)
 
-// Offsets
+// -- Offsets
   .offset-by-one.column,
   .offset-by-one.columns
     margin-left: grid-offset-width(1)
@@ -111,8 +113,8 @@
   .offset-by-one-half.columns
     margin-left: grid-offset-width(6)
 
-// Clearing
-/* Self Clearing Goodness */
+// -- Clearing
+// Self Clearing Goodness
 .container:after,
 .row:after,
 .u-cf
