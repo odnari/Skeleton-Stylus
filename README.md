@@ -1,4 +1,4 @@
-# [Skeleton](http://getskeleton.com)
+# [Skeleton](https://github.com/rezoh/Skeleton-Stylus)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
 Check out <http://getskeleton.com> for documentation and details.
@@ -15,6 +15,12 @@ Check out <http://getskeleton.com> for documentation and details.
   * cd to project folder
   * run `[sudo] npm install` (first time users)
   * run `gulp watch` (to watch and compile stylus files) or `gulp stylus` (to just compile stylus files)
+
+### What Stylus-version can give you?
+  - Customizable responsible grid
+  - Easy colors and typography customization
+  - Modular structure (yeah, you can throw away some modules and feel fine)
+  - Nice-looking syntax (it's Stylus, come on)
 
 ### What's in the download?
 
