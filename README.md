@@ -11,9 +11,10 @@ Check out <http://getskeleton.com> for documentation and details.
   * [bower](http://gulpjs.com/): `[sudo] npm install gulp -g`
 
 ### Install Local Dependancies
+  * [Download zip](https://github.com/rezoh/Skeleton-Stylus/archive/master.zip) or clone the repo `git clone https://github.com/rezoh/Skeleton-Stylus.git`
   * cd to project folder
   * run `[sudo] npm install` (first time users)
-  * run `gulp watch` (to watch and compile sass files)
+  * run `gulp watch` (to watch and compile stylus files) or `gulp stylus` (to just compile stylus files)
 
 ### What's in the download?
 
