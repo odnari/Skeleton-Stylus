@@ -1,0 +1,26 @@
+{
+  "name": "skeleton-stylus",
+  "version": "2.0.4",
+  "description": "The unofficial Stylus Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rezoh/Skeleton-Stylus"
+  },
+  "bugs": {
+    "url": "https://github.com/rezoh/Skeleton-Stylus/issues"
+  },
+  "homepage": "https://github.com/rezoh/Skeleton-Stylus",
+  "author": "Mykola Bodnariuk <n@intellialle.com>",
+  "keywords": [
+    "css",
+    "skeleton",
+    "responsive",
+    "boilerplate",
+    "stylus"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.3.0"
+  }
+}
