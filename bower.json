@@ -18,8 +18,5 @@
     "boilerplate",
     "stylus"
   ],
-  "license": "MIT",
-  "dependencies": {
-    "normalize-styl": "^3.0.2"
-  }
+  "license": "MIT"
 }
