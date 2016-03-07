@@ -1,5 +1,5 @@
 grid-column-width(n)
-  column-width * n - (column-margin * (total-columns - n) / total-columns)
+  unit(column-width * n - (unit(column-margin, 'px') * (total-columns - n) / total-columns), '%')
 
 grid-offset-width(n)
-  grid-column-width(n) + column-margin
+  unit(grid-column-width(n) + unit(column-margin, 'px'), '%')
